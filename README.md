@@ -1,6 +1,6 @@
 # RESTFUL API for Running Club Site
 
-Feel free to use & modify this API for register running club with its event
+API for register running club with its event
 
 ## 1. User Management
 
